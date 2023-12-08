@@ -101,7 +101,6 @@ void loop() {
     
     
    if(entrysensor == 1){
-   // delay(2000);
     myservo.write(CLOSE_ANGLE);
    }
     
